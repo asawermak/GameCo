@@ -39,7 +39,7 @@
 #### -> Final project needs to be professional (i.e., something you could show a potential employer).
 
 ## Data Set
-#### The data set covers historical sales of video games (for games that sold more than 10,000 copies) spanning different platforms, genres, and publishing studios. This data was drawn from the [VGChartz](https://www.vgchartz.com/).
+#### The data set covers historical sales of video games (for games that sold more than 10,000 copies) spanning different platforms, genres, and publishing studios. This data was drawn from [VGChartz](https://www.vgchartz.com/).
 
 #### Important points regarding the data set:
 
